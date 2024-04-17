@@ -4,7 +4,7 @@ We provide two interactive viewers for our method: remote and real-time (recomme
 
 ### Pre-built Windows Binaries
 
-We provide pre-built binaries of **Real-Time Viewer** for Windows [here](https://drive.google.com/file/d/1BEcAvM98HpchubODF249X3NGoKoC7SuQ/view?usp=sharing). Due to equipment and timing reasons, we can only guarantee a successful deployment in the Windows environment.
+We provide pre-built binaries of **Real-Time Viewer** for Windows [here](https://drive.google.com/file/d/1_J6qP3dzwBGQ1R5NAE9ORBz49d3uuvnw/view?usp=sharing). Due to equipment and timing reasons, we can only guarantee a successful deployment in the Windows environment.
 
 Examples : 
 
