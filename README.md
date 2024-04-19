@@ -200,7 +200,15 @@ python metrics.py -m <path to trained model> # Compute error metrics on renderin
 ## Viewer
 
 The [viewers](https://github.com/city-super/Octree-GS/tree/main/SIBR_viewers) for Octree-GS is available now. 
-Please follow the following format
+
+Examples : 
+
+- [garden](https://drive.google.com/file/d/1ue0biV-rmp-BeTkUwCzbylY4Y_iCr6gj/view?usp=sharing) in the [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) Dataset;
+- [bicycle](https://drive.google.com/file/d/1NW_bx8FSN5QF4RwLqnOZEWAfOiPQXfXE/view?usp=sharing) in the [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) Dataset;
+- [counter](https://drive.google.com/file/d/1T_dEW8aulOMM5-VLthWtbzR6wsf-w3Go/view?usp=sharing) in the [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) Dataset;
+- [DrJohnson](https://drive.google.com/file/d/1Z3j6SoNr1G0PnCwqHj1r3lO1eqBChk5m/view?usp=sharing) in the [Deep Blending](http://visual.cs.ucl.ac.uk/pubs/deepblending/) Dataset;
+
+If you train on other scenes, please follow the following format: 
 
 ```
 <location>
